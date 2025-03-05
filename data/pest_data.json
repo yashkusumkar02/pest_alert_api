@@ -1,0 +1,18 @@
+[
+    {"disease": "Leaf Rust", "crops": "Wheat, Barley", "location": "Punjab"},
+    {"disease": "Powdery Mildew", "crops": "Grapes, Cucumbers", "location": "Maharashtra"},
+    {"disease": "Blight", "crops": "Potatoes, Tomatoes", "location": "Karnataka"},
+    {"disease": "Bacterial Wilt", "crops": "Tomatoes, Peppers", "location": "Uttar Pradesh"},
+    {"disease": "Fusarium Wilt", "crops": "Bananas", "location": "Tamil Nadu"},
+    {"disease": "Downy Mildew", "crops": "Grapes, Cucumbers", "location": "Rajasthan"},
+    {"disease": "Root Rot", "crops": "Soybean, Peanuts", "location": "Haryana"},
+    {"disease": "White Mold", "crops": "Sunflower, Soybean", "location": "Gujarat"},
+    {"disease": "Stem Rust", "crops": "Wheat", "location": "Madhya Pradesh"},
+    {"disease": "Rice Blast", "crops": "Rice", "location": "West Bengal"},
+    {"disease": "Citrus Canker", "crops": "Oranges, Lemons", "location": "Nagpur"},
+    {"disease": "Cotton Bollworm", "crops": "Cotton", "location": "Telangana"},
+    {"disease": "Late Blight", "crops": "Potatoes, Tomatoes", "location": "Himachal Pradesh"},
+    {"disease": "Rust", "crops": "Coffee", "location": "Kerala"},
+    {"disease": "Tobacco Mosaic Virus", "crops": "Tobacco", "location": "Andhra Pradesh"}
+  ]
+  
