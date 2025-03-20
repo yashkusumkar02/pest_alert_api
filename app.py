@@ -6,47 +6,47 @@ import os
 app = Flask(__name__, template_folder="templates")
 CORS(app)
 
-# ✅ Load Pest Alert Data from CSV
-data_file = os.path.join(os.path.dirname(__file__), "data/Real-Time_Crop_Pest_Data.csv")
+# Path to the dataset
+CSV_FILE = os.path.join(os.path.dirname(__file__), "data", "Real-Time_Crop_Disease_Dataset.csv")
 
-try:
-    pest_data = pd.read_csv(data_file).to_dict(orient="records")  # Convert CSV to List of Dicts
-except Exception as e:
-    pest_data = []
-    print(f"❌ Error loading pest data: {e}")
+# ✅ Function to load pest alerts from CSV
+def load_pest_data():
+    try:
+        df = pd.read_csv(CSV_FILE)
+        alerts = df.to_dict(orient="records")  # Convert DataFrame to list of dicts
+        return alerts
+    except Exception as e:
+        print(f"❌ Error loading pest data: {e}")
+        return []
 
 @app.route("/")
 def home():
-    return render_template("index.html")  # ✅ Render Homepage
+    return render_template("index.html")
 
 @app.route("/pest-alerts")
 def get_pest_alerts():
-    state = request.args.get("state")
-    crop = request.args.get("crop")
-
-    filtered_data = pest_data
-
-    # ✅ Apply Filtering (if state or crop is provided)
-    if state:
-        filtered_data = [p for p in filtered_data if p["location"].lower() == state.lower()]
-    if crop:
-        filtered_data = [p for p in filtered_data if crop.lower() in p["crops"].lower()]
-
-    return jsonify(filtered_data)
+    alerts = load_pest_data()
+    return jsonify(alerts)  # ✅ Returns JSON API
 
 @app.route("/pest-alerts/html")
 def pest_alerts_html():
-    state = request.args.get("state")
-    crop = request.args.get("crop")
+    alerts = load_pest_data()
+    return render_template("alerts.html", alerts=alerts, total_alerts=len(alerts))  # ✅ Render with total count
 
-    filtered_data = pest_data
-
+@app.route("/search")
+def search_alerts():
+    state = request.args.get("state", "").strip().lower()
+    crop = request.args.get("crop", "").strip().lower()
+    
+    alerts = load_pest_data()
+    
+    # ✅ Filter based on state or crop if provided
     if state:
-        filtered_data = [p for p in filtered_data if p["location"].lower() == state.lower()]
+        alerts = [alert for alert in alerts if state in alert["state"].lower()]
     if crop:
-        filtered_data = [p for p in filtered_data if crop.lower() in p["crops"].lower()]
+        alerts = [alert for alert in alerts if crop in alert["crops"].lower()]
 
-    return render_template("alerts.html", alerts=filtered_data)
+    return render_template("alerts.html", alerts=alerts, total_alerts=len(alerts))
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
