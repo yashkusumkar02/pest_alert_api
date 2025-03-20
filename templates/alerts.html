@@ -3,18 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pest Alerts</title>
+    <title>Pest & Disease Alerts</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-    <h1>🦠 Pest & Disease Alerts</h1>
+    <h1>🦠 Pest & Disease Alerts (Total: {{ total_alerts }})</h1>
+    
+    <!-- 🔍 Search Form -->
+    <form action="/search" method="GET">
+        <input type="text" name="state" placeholder="Search by state...">
+        <input type="text" name="crop" placeholder="Search by crop...">
+        <button type="submit">Search</button>
+    </form>
+
     <ul>
         {% for alert in alerts %}
             <li>
-                <strong>{{ alert.disease }}</strong> affecting <em>{{ alert.crops }}</em> in {{ alert.location }}
+                <strong>{{ alert.disease }}</strong> affecting <em>{{ alert.crops }}</em> in <b>{{ alert.state }}</b>
+                (Reported Cases: {{ alert.reported_cases }})
             </li>
         {% endfor %}
     </ul>
+    
     <a href="/"><button>Back to Home</button></a>
 </body>
 </html>

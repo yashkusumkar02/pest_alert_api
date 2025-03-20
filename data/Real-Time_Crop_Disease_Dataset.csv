@@ -1,0 +1,842 @@
+state,disease,crops,reported_cases
+Punjab,Leaf Rust,"Wheat, Barley",269
+Punjab,Powdery Mildew,"Grapes, Cucumbers",453
+Punjab,Blight,"Potatoes, Tomatoes",322
+Punjab,Bacterial Wilt,"Tomatoes, Peppers",184
+Punjab,Fusarium Wilt,Bananas,138
+Punjab,Downy Mildew,"Grapes, Cucumbers",446
+Punjab,Root Rot,"Soybean, Peanuts",284
+Punjab,White Mold,"Sunflower, Soybean",204
+Punjab,Stem Rust,Wheat,392
+Punjab,Rice Blast,Rice,76
+Punjab,Citrus Canker,"Oranges, Lemons",66
+Punjab,Cotton Bollworm,Cotton,215
+Punjab,Late Blight,"Potatoes, Tomatoes",292
+Punjab,Rust,Coffee,265
+Punjab,Tobacco Mosaic Virus,Tobacco,329
+Punjab,Anthracnose,"Mango, Papaya",500
+Punjab,Wilt Disease,"Chili, Eggplant",194
+Punjab,Black Rot,"Cabbage, Cauliflower",83
+Punjab,Brown Spot,Rice,352
+Punjab,Yellow Mosaic Virus,"Legumes, Soybean",122
+Punjab,Downy Spot,"Spinach, Lettuce",328
+Punjab,Red Rot,Sugarcane,57
+Punjab,Smut,"Sorghum, Millets",179
+Punjab,Black Sigatoka,Bananas,80
+Punjab,Fungal Leaf Spot,"Peanuts, Sesame",488
+Punjab,Mosaic Disease,"Okra, Pumpkin",185
+Punjab,Blast Disease,"Millets, Maize",231
+Punjab,Cercospora Leaf Spot,"Beetroot, Carrot",187
+Punjab,Angular Leaf Spot,"Cucumber, Pumpkin",287
+Maharashtra,Leaf Rust,"Wheat, Barley",471
+Maharashtra,Powdery Mildew,"Grapes, Cucumbers",158
+Maharashtra,Blight,"Potatoes, Tomatoes",467
+Maharashtra,Bacterial Wilt,"Tomatoes, Peppers",499
+Maharashtra,Fusarium Wilt,Bananas,202
+Maharashtra,Downy Mildew,"Grapes, Cucumbers",235
+Maharashtra,Root Rot,"Soybean, Peanuts",128
+Maharashtra,White Mold,"Sunflower, Soybean",318
+Maharashtra,Stem Rust,Wheat,53
+Maharashtra,Rice Blast,Rice,267
+Maharashtra,Citrus Canker,"Oranges, Lemons",319
+Maharashtra,Cotton Bollworm,Cotton,293
+Maharashtra,Late Blight,"Potatoes, Tomatoes",269
+Maharashtra,Rust,Coffee,494
+Maharashtra,Tobacco Mosaic Virus,Tobacco,141
+Maharashtra,Anthracnose,"Mango, Papaya",123
+Maharashtra,Wilt Disease,"Chili, Eggplant",162
+Maharashtra,Black Rot,"Cabbage, Cauliflower",475
+Maharashtra,Brown Spot,Rice,269
+Maharashtra,Yellow Mosaic Virus,"Legumes, Soybean",238
+Maharashtra,Downy Spot,"Spinach, Lettuce",304
+Maharashtra,Red Rot,Sugarcane,189
+Maharashtra,Smut,"Sorghum, Millets",489
+Maharashtra,Black Sigatoka,Bananas,435
+Maharashtra,Fungal Leaf Spot,"Peanuts, Sesame",493
+Maharashtra,Mosaic Disease,"Okra, Pumpkin",203
+Maharashtra,Blast Disease,"Millets, Maize",483
+Maharashtra,Cercospora Leaf Spot,"Beetroot, Carrot",207
+Maharashtra,Angular Leaf Spot,"Cucumber, Pumpkin",153
+Karnataka,Leaf Rust,"Wheat, Barley",97
+Karnataka,Powdery Mildew,"Grapes, Cucumbers",176
+Karnataka,Blight,"Potatoes, Tomatoes",294
+Karnataka,Bacterial Wilt,"Tomatoes, Peppers",337
+Karnataka,Fusarium Wilt,Bananas,195
+Karnataka,Downy Mildew,"Grapes, Cucumbers",496
+Karnataka,Root Rot,"Soybean, Peanuts",337
+Karnataka,White Mold,"Sunflower, Soybean",312
+Karnataka,Stem Rust,Wheat,135
+Karnataka,Rice Blast,Rice,186
+Karnataka,Citrus Canker,"Oranges, Lemons",414
+Karnataka,Cotton Bollworm,Cotton,460
+Karnataka,Late Blight,"Potatoes, Tomatoes",347
+Karnataka,Rust,Coffee,500
+Karnataka,Tobacco Mosaic Virus,Tobacco,350
+Karnataka,Anthracnose,"Mango, Papaya",312
+Karnataka,Wilt Disease,"Chili, Eggplant",90
+Karnataka,Black Rot,"Cabbage, Cauliflower",206
+Karnataka,Brown Spot,Rice,83
+Karnataka,Yellow Mosaic Virus,"Legumes, Soybean",183
+Karnataka,Downy Spot,"Spinach, Lettuce",291
+Karnataka,Red Rot,Sugarcane,460
+Karnataka,Smut,"Sorghum, Millets",313
+Karnataka,Black Sigatoka,Bananas,400
+Karnataka,Fungal Leaf Spot,"Peanuts, Sesame",433
+Karnataka,Mosaic Disease,"Okra, Pumpkin",324
+Karnataka,Blast Disease,"Millets, Maize",163
+Karnataka,Cercospora Leaf Spot,"Beetroot, Carrot",285
+Karnataka,Angular Leaf Spot,"Cucumber, Pumpkin",444
+Uttar Pradesh,Leaf Rust,"Wheat, Barley",317
+Uttar Pradesh,Powdery Mildew,"Grapes, Cucumbers",423
+Uttar Pradesh,Blight,"Potatoes, Tomatoes",179
+Uttar Pradesh,Bacterial Wilt,"Tomatoes, Peppers",484
+Uttar Pradesh,Fusarium Wilt,Bananas,218
+Uttar Pradesh,Downy Mildew,"Grapes, Cucumbers",285
+Uttar Pradesh,Root Rot,"Soybean, Peanuts",480
+Uttar Pradesh,White Mold,"Sunflower, Soybean",106
+Uttar Pradesh,Stem Rust,Wheat,271
+Uttar Pradesh,Rice Blast,Rice,401
+Uttar Pradesh,Citrus Canker,"Oranges, Lemons",206
+Uttar Pradesh,Cotton Bollworm,Cotton,373
+Uttar Pradesh,Late Blight,"Potatoes, Tomatoes",342
+Uttar Pradesh,Rust,Coffee,363
+Uttar Pradesh,Tobacco Mosaic Virus,Tobacco,450
+Uttar Pradesh,Anthracnose,"Mango, Papaya",258
+Uttar Pradesh,Wilt Disease,"Chili, Eggplant",211
+Uttar Pradesh,Black Rot,"Cabbage, Cauliflower",108
+Uttar Pradesh,Brown Spot,Rice,498
+Uttar Pradesh,Yellow Mosaic Virus,"Legumes, Soybean",342
+Uttar Pradesh,Downy Spot,"Spinach, Lettuce",483
+Uttar Pradesh,Red Rot,Sugarcane,98
+Uttar Pradesh,Smut,"Sorghum, Millets",222
+Uttar Pradesh,Black Sigatoka,Bananas,395
+Uttar Pradesh,Fungal Leaf Spot,"Peanuts, Sesame",87
+Uttar Pradesh,Mosaic Disease,"Okra, Pumpkin",345
+Uttar Pradesh,Blast Disease,"Millets, Maize",121
+Uttar Pradesh,Cercospora Leaf Spot,"Beetroot, Carrot",292
+Uttar Pradesh,Angular Leaf Spot,"Cucumber, Pumpkin",155
+Tamil Nadu,Leaf Rust,"Wheat, Barley",91
+Tamil Nadu,Powdery Mildew,"Grapes, Cucumbers",101
+Tamil Nadu,Blight,"Potatoes, Tomatoes",343
+Tamil Nadu,Bacterial Wilt,"Tomatoes, Peppers",197
+Tamil Nadu,Fusarium Wilt,Bananas,400
+Tamil Nadu,Downy Mildew,"Grapes, Cucumbers",326
+Tamil Nadu,Root Rot,"Soybean, Peanuts",51
+Tamil Nadu,White Mold,"Sunflower, Soybean",293
+Tamil Nadu,Stem Rust,Wheat,149
+Tamil Nadu,Rice Blast,Rice,91
+Tamil Nadu,Citrus Canker,"Oranges, Lemons",201
+Tamil Nadu,Cotton Bollworm,Cotton,242
+Tamil Nadu,Late Blight,"Potatoes, Tomatoes",477
+Tamil Nadu,Rust,Coffee,433
+Tamil Nadu,Tobacco Mosaic Virus,Tobacco,108
+Tamil Nadu,Anthracnose,"Mango, Papaya",440
+Tamil Nadu,Wilt Disease,"Chili, Eggplant",434
+Tamil Nadu,Black Rot,"Cabbage, Cauliflower",448
+Tamil Nadu,Brown Spot,Rice,341
+Tamil Nadu,Yellow Mosaic Virus,"Legumes, Soybean",328
+Tamil Nadu,Downy Spot,"Spinach, Lettuce",120
+Tamil Nadu,Red Rot,Sugarcane,331
+Tamil Nadu,Smut,"Sorghum, Millets",379
+Tamil Nadu,Black Sigatoka,Bananas,404
+Tamil Nadu,Fungal Leaf Spot,"Peanuts, Sesame",393
+Tamil Nadu,Mosaic Disease,"Okra, Pumpkin",333
+Tamil Nadu,Blast Disease,"Millets, Maize",226
+Tamil Nadu,Cercospora Leaf Spot,"Beetroot, Carrot",102
+Tamil Nadu,Angular Leaf Spot,"Cucumber, Pumpkin",231
+Rajasthan,Leaf Rust,"Wheat, Barley",236
+Rajasthan,Powdery Mildew,"Grapes, Cucumbers",349
+Rajasthan,Blight,"Potatoes, Tomatoes",288
+Rajasthan,Bacterial Wilt,"Tomatoes, Peppers",357
+Rajasthan,Fusarium Wilt,Bananas,351
+Rajasthan,Downy Mildew,"Grapes, Cucumbers",418
+Rajasthan,Root Rot,"Soybean, Peanuts",108
+Rajasthan,White Mold,"Sunflower, Soybean",457
+Rajasthan,Stem Rust,Wheat,76
+Rajasthan,Rice Blast,Rice,149
+Rajasthan,Citrus Canker,"Oranges, Lemons",117
+Rajasthan,Cotton Bollworm,Cotton,407
+Rajasthan,Late Blight,"Potatoes, Tomatoes",225
+Rajasthan,Rust,Coffee,472
+Rajasthan,Tobacco Mosaic Virus,Tobacco,235
+Rajasthan,Anthracnose,"Mango, Papaya",344
+Rajasthan,Wilt Disease,"Chili, Eggplant",396
+Rajasthan,Black Rot,"Cabbage, Cauliflower",148
+Rajasthan,Brown Spot,Rice,386
+Rajasthan,Yellow Mosaic Virus,"Legumes, Soybean",194
+Rajasthan,Downy Spot,"Spinach, Lettuce",156
+Rajasthan,Red Rot,Sugarcane,197
+Rajasthan,Smut,"Sorghum, Millets",90
+Rajasthan,Black Sigatoka,Bananas,377
+Rajasthan,Fungal Leaf Spot,"Peanuts, Sesame",74
+Rajasthan,Mosaic Disease,"Okra, Pumpkin",448
+Rajasthan,Blast Disease,"Millets, Maize",195
+Rajasthan,Cercospora Leaf Spot,"Beetroot, Carrot",247
+Rajasthan,Angular Leaf Spot,"Cucumber, Pumpkin",260
+Haryana,Leaf Rust,"Wheat, Barley",88
+Haryana,Powdery Mildew,"Grapes, Cucumbers",388
+Haryana,Blight,"Potatoes, Tomatoes",94
+Haryana,Bacterial Wilt,"Tomatoes, Peppers",250
+Haryana,Fusarium Wilt,Bananas,286
+Haryana,Downy Mildew,"Grapes, Cucumbers",466
+Haryana,Root Rot,"Soybean, Peanuts",217
+Haryana,White Mold,"Sunflower, Soybean",496
+Haryana,Stem Rust,Wheat,55
+Haryana,Rice Blast,Rice,270
+Haryana,Citrus Canker,"Oranges, Lemons",173
+Haryana,Cotton Bollworm,Cotton,325
+Haryana,Late Blight,"Potatoes, Tomatoes",306
+Haryana,Rust,Coffee,330
+Haryana,Tobacco Mosaic Virus,Tobacco,399
+Haryana,Anthracnose,"Mango, Papaya",365
+Haryana,Wilt Disease,"Chili, Eggplant",253
+Haryana,Black Rot,"Cabbage, Cauliflower",417
+Haryana,Brown Spot,Rice,490
+Haryana,Yellow Mosaic Virus,"Legumes, Soybean",258
+Haryana,Downy Spot,"Spinach, Lettuce",492
+Haryana,Red Rot,Sugarcane,299
+Haryana,Smut,"Sorghum, Millets",217
+Haryana,Black Sigatoka,Bananas,358
+Haryana,Fungal Leaf Spot,"Peanuts, Sesame",282
+Haryana,Mosaic Disease,"Okra, Pumpkin",262
+Haryana,Blast Disease,"Millets, Maize",442
+Haryana,Cercospora Leaf Spot,"Beetroot, Carrot",352
+Haryana,Angular Leaf Spot,"Cucumber, Pumpkin",134
+Gujarat,Leaf Rust,"Wheat, Barley",355
+Gujarat,Powdery Mildew,"Grapes, Cucumbers",418
+Gujarat,Blight,"Potatoes, Tomatoes",449
+Gujarat,Bacterial Wilt,"Tomatoes, Peppers",423
+Gujarat,Fusarium Wilt,Bananas,92
+Gujarat,Downy Mildew,"Grapes, Cucumbers",301
+Gujarat,Root Rot,"Soybean, Peanuts",324
+Gujarat,White Mold,"Sunflower, Soybean",361
+Gujarat,Stem Rust,Wheat,459
+Gujarat,Rice Blast,Rice,420
+Gujarat,Citrus Canker,"Oranges, Lemons",371
+Gujarat,Cotton Bollworm,Cotton,325
+Gujarat,Late Blight,"Potatoes, Tomatoes",426
+Gujarat,Rust,Coffee,216
+Gujarat,Tobacco Mosaic Virus,Tobacco,415
+Gujarat,Anthracnose,"Mango, Papaya",257
+Gujarat,Wilt Disease,"Chili, Eggplant",448
+Gujarat,Black Rot,"Cabbage, Cauliflower",358
+Gujarat,Brown Spot,Rice,371
+Gujarat,Yellow Mosaic Virus,"Legumes, Soybean",363
+Gujarat,Downy Spot,"Spinach, Lettuce",456
+Gujarat,Red Rot,Sugarcane,89
+Gujarat,Smut,"Sorghum, Millets",240
+Gujarat,Black Sigatoka,Bananas,279
+Gujarat,Fungal Leaf Spot,"Peanuts, Sesame",97
+Gujarat,Mosaic Disease,"Okra, Pumpkin",53
+Gujarat,Blast Disease,"Millets, Maize",409
+Gujarat,Cercospora Leaf Spot,"Beetroot, Carrot",278
+Gujarat,Angular Leaf Spot,"Cucumber, Pumpkin",329
+Madhya Pradesh,Leaf Rust,"Wheat, Barley",238
+Madhya Pradesh,Powdery Mildew,"Grapes, Cucumbers",342
+Madhya Pradesh,Blight,"Potatoes, Tomatoes",152
+Madhya Pradesh,Bacterial Wilt,"Tomatoes, Peppers",496
+Madhya Pradesh,Fusarium Wilt,Bananas,442
+Madhya Pradesh,Downy Mildew,"Grapes, Cucumbers",157
+Madhya Pradesh,Root Rot,"Soybean, Peanuts",356
+Madhya Pradesh,White Mold,"Sunflower, Soybean",193
+Madhya Pradesh,Stem Rust,Wheat,494
+Madhya Pradesh,Rice Blast,Rice,254
+Madhya Pradesh,Citrus Canker,"Oranges, Lemons",243
+Madhya Pradesh,Cotton Bollworm,Cotton,183
+Madhya Pradesh,Late Blight,"Potatoes, Tomatoes",134
+Madhya Pradesh,Rust,Coffee,85
+Madhya Pradesh,Tobacco Mosaic Virus,Tobacco,392
+Madhya Pradesh,Anthracnose,"Mango, Papaya",55
+Madhya Pradesh,Wilt Disease,"Chili, Eggplant",474
+Madhya Pradesh,Black Rot,"Cabbage, Cauliflower",421
+Madhya Pradesh,Brown Spot,Rice,478
+Madhya Pradesh,Yellow Mosaic Virus,"Legumes, Soybean",326
+Madhya Pradesh,Downy Spot,"Spinach, Lettuce",183
+Madhya Pradesh,Red Rot,Sugarcane,462
+Madhya Pradesh,Smut,"Sorghum, Millets",187
+Madhya Pradesh,Black Sigatoka,Bananas,179
+Madhya Pradesh,Fungal Leaf Spot,"Peanuts, Sesame",419
+Madhya Pradesh,Mosaic Disease,"Okra, Pumpkin",152
+Madhya Pradesh,Blast Disease,"Millets, Maize",419
+Madhya Pradesh,Cercospora Leaf Spot,"Beetroot, Carrot",352
+Madhya Pradesh,Angular Leaf Spot,"Cucumber, Pumpkin",184
+West Bengal,Leaf Rust,"Wheat, Barley",308
+West Bengal,Powdery Mildew,"Grapes, Cucumbers",123
+West Bengal,Blight,"Potatoes, Tomatoes",426
+West Bengal,Bacterial Wilt,"Tomatoes, Peppers",354
+West Bengal,Fusarium Wilt,Bananas,133
+West Bengal,Downy Mildew,"Grapes, Cucumbers",230
+West Bengal,Root Rot,"Soybean, Peanuts",113
+West Bengal,White Mold,"Sunflower, Soybean",53
+West Bengal,Stem Rust,Wheat,203
+West Bengal,Rice Blast,Rice,449
+West Bengal,Citrus Canker,"Oranges, Lemons",100
+West Bengal,Cotton Bollworm,Cotton,242
+West Bengal,Late Blight,"Potatoes, Tomatoes",77
+West Bengal,Rust,Coffee,292
+West Bengal,Tobacco Mosaic Virus,Tobacco,113
+West Bengal,Anthracnose,"Mango, Papaya",420
+West Bengal,Wilt Disease,"Chili, Eggplant",63
+West Bengal,Black Rot,"Cabbage, Cauliflower",414
+West Bengal,Brown Spot,Rice,144
+West Bengal,Yellow Mosaic Virus,"Legumes, Soybean",432
+West Bengal,Downy Spot,"Spinach, Lettuce",147
+West Bengal,Red Rot,Sugarcane,229
+West Bengal,Smut,"Sorghum, Millets",348
+West Bengal,Black Sigatoka,Bananas,399
+West Bengal,Fungal Leaf Spot,"Peanuts, Sesame",462
+West Bengal,Mosaic Disease,"Okra, Pumpkin",300
+West Bengal,Blast Disease,"Millets, Maize",377
+West Bengal,Cercospora Leaf Spot,"Beetroot, Carrot",127
+West Bengal,Angular Leaf Spot,"Cucumber, Pumpkin",449
+Nagpur,Leaf Rust,"Wheat, Barley",142
+Nagpur,Powdery Mildew,"Grapes, Cucumbers",341
+Nagpur,Blight,"Potatoes, Tomatoes",115
+Nagpur,Bacterial Wilt,"Tomatoes, Peppers",474
+Nagpur,Fusarium Wilt,Bananas,374
+Nagpur,Downy Mildew,"Grapes, Cucumbers",161
+Nagpur,Root Rot,"Soybean, Peanuts",73
+Nagpur,White Mold,"Sunflower, Soybean",82
+Nagpur,Stem Rust,Wheat,469
+Nagpur,Rice Blast,Rice,131
+Nagpur,Citrus Canker,"Oranges, Lemons",61
+Nagpur,Cotton Bollworm,Cotton,53
+Nagpur,Late Blight,"Potatoes, Tomatoes",71
+Nagpur,Rust,Coffee,456
+Nagpur,Tobacco Mosaic Virus,Tobacco,119
+Nagpur,Anthracnose,"Mango, Papaya",367
+Nagpur,Wilt Disease,"Chili, Eggplant",448
+Nagpur,Black Rot,"Cabbage, Cauliflower",352
+Nagpur,Brown Spot,Rice,192
+Nagpur,Yellow Mosaic Virus,"Legumes, Soybean",351
+Nagpur,Downy Spot,"Spinach, Lettuce",445
+Nagpur,Red Rot,Sugarcane,287
+Nagpur,Smut,"Sorghum, Millets",170
+Nagpur,Black Sigatoka,Bananas,174
+Nagpur,Fungal Leaf Spot,"Peanuts, Sesame",435
+Nagpur,Mosaic Disease,"Okra, Pumpkin",270
+Nagpur,Blast Disease,"Millets, Maize",318
+Nagpur,Cercospora Leaf Spot,"Beetroot, Carrot",94
+Nagpur,Angular Leaf Spot,"Cucumber, Pumpkin",126
+Telangana,Leaf Rust,"Wheat, Barley",468
+Telangana,Powdery Mildew,"Grapes, Cucumbers",75
+Telangana,Blight,"Potatoes, Tomatoes",282
+Telangana,Bacterial Wilt,"Tomatoes, Peppers",326
+Telangana,Fusarium Wilt,Bananas,250
+Telangana,Downy Mildew,"Grapes, Cucumbers",250
+Telangana,Root Rot,"Soybean, Peanuts",399
+Telangana,White Mold,"Sunflower, Soybean",453
+Telangana,Stem Rust,Wheat,425
+Telangana,Rice Blast,Rice,358
+Telangana,Citrus Canker,"Oranges, Lemons",307
+Telangana,Cotton Bollworm,Cotton,370
+Telangana,Late Blight,"Potatoes, Tomatoes",361
+Telangana,Rust,Coffee,239
+Telangana,Tobacco Mosaic Virus,Tobacco,495
+Telangana,Anthracnose,"Mango, Papaya",98
+Telangana,Wilt Disease,"Chili, Eggplant",175
+Telangana,Black Rot,"Cabbage, Cauliflower",124
+Telangana,Brown Spot,Rice,315
+Telangana,Yellow Mosaic Virus,"Legumes, Soybean",109
+Telangana,Downy Spot,"Spinach, Lettuce",428
+Telangana,Red Rot,Sugarcane,456
+Telangana,Smut,"Sorghum, Millets",255
+Telangana,Black Sigatoka,Bananas,392
+Telangana,Fungal Leaf Spot,"Peanuts, Sesame",419
+Telangana,Mosaic Disease,"Okra, Pumpkin",348
+Telangana,Blast Disease,"Millets, Maize",65
+Telangana,Cercospora Leaf Spot,"Beetroot, Carrot",454
+Telangana,Angular Leaf Spot,"Cucumber, Pumpkin",261
+Himachal Pradesh,Leaf Rust,"Wheat, Barley",413
+Himachal Pradesh,Powdery Mildew,"Grapes, Cucumbers",98
+Himachal Pradesh,Blight,"Potatoes, Tomatoes",116
+Himachal Pradesh,Bacterial Wilt,"Tomatoes, Peppers",235
+Himachal Pradesh,Fusarium Wilt,Bananas,145
+Himachal Pradesh,Downy Mildew,"Grapes, Cucumbers",461
+Himachal Pradesh,Root Rot,"Soybean, Peanuts",449
+Himachal Pradesh,White Mold,"Sunflower, Soybean",205
+Himachal Pradesh,Stem Rust,Wheat,71
+Himachal Pradesh,Rice Blast,Rice,59
+Himachal Pradesh,Citrus Canker,"Oranges, Lemons",126
+Himachal Pradesh,Cotton Bollworm,Cotton,485
+Himachal Pradesh,Late Blight,"Potatoes, Tomatoes",393
+Himachal Pradesh,Rust,Coffee,217
+Himachal Pradesh,Tobacco Mosaic Virus,Tobacco,373
+Himachal Pradesh,Anthracnose,"Mango, Papaya",426
+Himachal Pradesh,Wilt Disease,"Chili, Eggplant",429
+Himachal Pradesh,Black Rot,"Cabbage, Cauliflower",84
+Himachal Pradesh,Brown Spot,Rice,137
+Himachal Pradesh,Yellow Mosaic Virus,"Legumes, Soybean",80
+Himachal Pradesh,Downy Spot,"Spinach, Lettuce",342
+Himachal Pradesh,Red Rot,Sugarcane,297
+Himachal Pradesh,Smut,"Sorghum, Millets",213
+Himachal Pradesh,Black Sigatoka,Bananas,94
+Himachal Pradesh,Fungal Leaf Spot,"Peanuts, Sesame",412
+Himachal Pradesh,Mosaic Disease,"Okra, Pumpkin",305
+Himachal Pradesh,Blast Disease,"Millets, Maize",80
+Himachal Pradesh,Cercospora Leaf Spot,"Beetroot, Carrot",323
+Himachal Pradesh,Angular Leaf Spot,"Cucumber, Pumpkin",145
+Kerala,Leaf Rust,"Wheat, Barley",451
+Kerala,Powdery Mildew,"Grapes, Cucumbers",311
+Kerala,Blight,"Potatoes, Tomatoes",443
+Kerala,Bacterial Wilt,"Tomatoes, Peppers",480
+Kerala,Fusarium Wilt,Bananas,168
+Kerala,Downy Mildew,"Grapes, Cucumbers",182
+Kerala,Root Rot,"Soybean, Peanuts",205
+Kerala,White Mold,"Sunflower, Soybean",278
+Kerala,Stem Rust,Wheat,205
+Kerala,Rice Blast,Rice,214
+Kerala,Citrus Canker,"Oranges, Lemons",208
+Kerala,Cotton Bollworm,Cotton,171
+Kerala,Late Blight,"Potatoes, Tomatoes",339
+Kerala,Rust,Coffee,225
+Kerala,Tobacco Mosaic Virus,Tobacco,202
+Kerala,Anthracnose,"Mango, Papaya",172
+Kerala,Wilt Disease,"Chili, Eggplant",129
+Kerala,Black Rot,"Cabbage, Cauliflower",173
+Kerala,Brown Spot,Rice,385
+Kerala,Yellow Mosaic Virus,"Legumes, Soybean",183
+Kerala,Downy Spot,"Spinach, Lettuce",317
+Kerala,Red Rot,Sugarcane,434
+Kerala,Smut,"Sorghum, Millets",366
+Kerala,Black Sigatoka,Bananas,210
+Kerala,Fungal Leaf Spot,"Peanuts, Sesame",78
+Kerala,Mosaic Disease,"Okra, Pumpkin",383
+Kerala,Blast Disease,"Millets, Maize",178
+Kerala,Cercospora Leaf Spot,"Beetroot, Carrot",90
+Kerala,Angular Leaf Spot,"Cucumber, Pumpkin",138
+Andhra Pradesh,Leaf Rust,"Wheat, Barley",85
+Andhra Pradesh,Powdery Mildew,"Grapes, Cucumbers",339
+Andhra Pradesh,Blight,"Potatoes, Tomatoes",481
+Andhra Pradesh,Bacterial Wilt,"Tomatoes, Peppers",232
+Andhra Pradesh,Fusarium Wilt,Bananas,175
+Andhra Pradesh,Downy Mildew,"Grapes, Cucumbers",335
+Andhra Pradesh,Root Rot,"Soybean, Peanuts",109
+Andhra Pradesh,White Mold,"Sunflower, Soybean",185
+Andhra Pradesh,Stem Rust,Wheat,207
+Andhra Pradesh,Rice Blast,Rice,382
+Andhra Pradesh,Citrus Canker,"Oranges, Lemons",221
+Andhra Pradesh,Cotton Bollworm,Cotton,467
+Andhra Pradesh,Late Blight,"Potatoes, Tomatoes",483
+Andhra Pradesh,Rust,Coffee,481
+Andhra Pradesh,Tobacco Mosaic Virus,Tobacco,193
+Andhra Pradesh,Anthracnose,"Mango, Papaya",436
+Andhra Pradesh,Wilt Disease,"Chili, Eggplant",84
+Andhra Pradesh,Black Rot,"Cabbage, Cauliflower",93
+Andhra Pradesh,Brown Spot,Rice,108
+Andhra Pradesh,Yellow Mosaic Virus,"Legumes, Soybean",366
+Andhra Pradesh,Downy Spot,"Spinach, Lettuce",267
+Andhra Pradesh,Red Rot,Sugarcane,426
+Andhra Pradesh,Smut,"Sorghum, Millets",183
+Andhra Pradesh,Black Sigatoka,Bananas,375
+Andhra Pradesh,Fungal Leaf Spot,"Peanuts, Sesame",82
+Andhra Pradesh,Mosaic Disease,"Okra, Pumpkin",69
+Andhra Pradesh,Blast Disease,"Millets, Maize",500
+Andhra Pradesh,Cercospora Leaf Spot,"Beetroot, Carrot",102
+Andhra Pradesh,Angular Leaf Spot,"Cucumber, Pumpkin",418
+Bihar,Leaf Rust,"Wheat, Barley",412
+Bihar,Powdery Mildew,"Grapes, Cucumbers",337
+Bihar,Blight,"Potatoes, Tomatoes",422
+Bihar,Bacterial Wilt,"Tomatoes, Peppers",298
+Bihar,Fusarium Wilt,Bananas,348
+Bihar,Downy Mildew,"Grapes, Cucumbers",242
+Bihar,Root Rot,"Soybean, Peanuts",294
+Bihar,White Mold,"Sunflower, Soybean",342
+Bihar,Stem Rust,Wheat,356
+Bihar,Rice Blast,Rice,206
+Bihar,Citrus Canker,"Oranges, Lemons",357
+Bihar,Cotton Bollworm,Cotton,490
+Bihar,Late Blight,"Potatoes, Tomatoes",362
+Bihar,Rust,Coffee,380
+Bihar,Tobacco Mosaic Virus,Tobacco,429
+Bihar,Anthracnose,"Mango, Papaya",450
+Bihar,Wilt Disease,"Chili, Eggplant",423
+Bihar,Black Rot,"Cabbage, Cauliflower",119
+Bihar,Brown Spot,Rice,115
+Bihar,Yellow Mosaic Virus,"Legumes, Soybean",86
+Bihar,Downy Spot,"Spinach, Lettuce",320
+Bihar,Red Rot,Sugarcane,469
+Bihar,Smut,"Sorghum, Millets",311
+Bihar,Black Sigatoka,Bananas,293
+Bihar,Fungal Leaf Spot,"Peanuts, Sesame",199
+Bihar,Mosaic Disease,"Okra, Pumpkin",307
+Bihar,Blast Disease,"Millets, Maize",447
+Bihar,Cercospora Leaf Spot,"Beetroot, Carrot",311
+Bihar,Angular Leaf Spot,"Cucumber, Pumpkin",57
+Odisha,Leaf Rust,"Wheat, Barley",494
+Odisha,Powdery Mildew,"Grapes, Cucumbers",455
+Odisha,Blight,"Potatoes, Tomatoes",238
+Odisha,Bacterial Wilt,"Tomatoes, Peppers",498
+Odisha,Fusarium Wilt,Bananas,228
+Odisha,Downy Mildew,"Grapes, Cucumbers",266
+Odisha,Root Rot,"Soybean, Peanuts",269
+Odisha,White Mold,"Sunflower, Soybean",283
+Odisha,Stem Rust,Wheat,492
+Odisha,Rice Blast,Rice,158
+Odisha,Citrus Canker,"Oranges, Lemons",367
+Odisha,Cotton Bollworm,Cotton,135
+Odisha,Late Blight,"Potatoes, Tomatoes",343
+Odisha,Rust,Coffee,358
+Odisha,Tobacco Mosaic Virus,Tobacco,476
+Odisha,Anthracnose,"Mango, Papaya",94
+Odisha,Wilt Disease,"Chili, Eggplant",268
+Odisha,Black Rot,"Cabbage, Cauliflower",488
+Odisha,Brown Spot,Rice,158
+Odisha,Yellow Mosaic Virus,"Legumes, Soybean",136
+Odisha,Downy Spot,"Spinach, Lettuce",133
+Odisha,Red Rot,Sugarcane,362
+Odisha,Smut,"Sorghum, Millets",221
+Odisha,Black Sigatoka,Bananas,253
+Odisha,Fungal Leaf Spot,"Peanuts, Sesame",398
+Odisha,Mosaic Disease,"Okra, Pumpkin",305
+Odisha,Blast Disease,"Millets, Maize",425
+Odisha,Cercospora Leaf Spot,"Beetroot, Carrot",404
+Odisha,Angular Leaf Spot,"Cucumber, Pumpkin",223
+Chhattisgarh,Leaf Rust,"Wheat, Barley",359
+Chhattisgarh,Powdery Mildew,"Grapes, Cucumbers",241
+Chhattisgarh,Blight,"Potatoes, Tomatoes",205
+Chhattisgarh,Bacterial Wilt,"Tomatoes, Peppers",441
+Chhattisgarh,Fusarium Wilt,Bananas,355
+Chhattisgarh,Downy Mildew,"Grapes, Cucumbers",393
+Chhattisgarh,Root Rot,"Soybean, Peanuts",204
+Chhattisgarh,White Mold,"Sunflower, Soybean",314
+Chhattisgarh,Stem Rust,Wheat,377
+Chhattisgarh,Rice Blast,Rice,442
+Chhattisgarh,Citrus Canker,"Oranges, Lemons",391
+Chhattisgarh,Cotton Bollworm,Cotton,240
+Chhattisgarh,Late Blight,"Potatoes, Tomatoes",289
+Chhattisgarh,Rust,Coffee,461
+Chhattisgarh,Tobacco Mosaic Virus,Tobacco,119
+Chhattisgarh,Anthracnose,"Mango, Papaya",215
+Chhattisgarh,Wilt Disease,"Chili, Eggplant",417
+Chhattisgarh,Black Rot,"Cabbage, Cauliflower",80
+Chhattisgarh,Brown Spot,Rice,200
+Chhattisgarh,Yellow Mosaic Virus,"Legumes, Soybean",376
+Chhattisgarh,Downy Spot,"Spinach, Lettuce",201
+Chhattisgarh,Red Rot,Sugarcane,187
+Chhattisgarh,Smut,"Sorghum, Millets",207
+Chhattisgarh,Black Sigatoka,Bananas,95
+Chhattisgarh,Fungal Leaf Spot,"Peanuts, Sesame",452
+Chhattisgarh,Mosaic Disease,"Okra, Pumpkin",286
+Chhattisgarh,Blast Disease,"Millets, Maize",313
+Chhattisgarh,Cercospora Leaf Spot,"Beetroot, Carrot",238
+Chhattisgarh,Angular Leaf Spot,"Cucumber, Pumpkin",82
+Jharkhand,Leaf Rust,"Wheat, Barley",290
+Jharkhand,Powdery Mildew,"Grapes, Cucumbers",357
+Jharkhand,Blight,"Potatoes, Tomatoes",464
+Jharkhand,Bacterial Wilt,"Tomatoes, Peppers",302
+Jharkhand,Fusarium Wilt,Bananas,287
+Jharkhand,Downy Mildew,"Grapes, Cucumbers",479
+Jharkhand,Root Rot,"Soybean, Peanuts",406
+Jharkhand,White Mold,"Sunflower, Soybean",93
+Jharkhand,Stem Rust,Wheat,211
+Jharkhand,Rice Blast,Rice,223
+Jharkhand,Citrus Canker,"Oranges, Lemons",384
+Jharkhand,Cotton Bollworm,Cotton,81
+Jharkhand,Late Blight,"Potatoes, Tomatoes",326
+Jharkhand,Rust,Coffee,140
+Jharkhand,Tobacco Mosaic Virus,Tobacco,215
+Jharkhand,Anthracnose,"Mango, Papaya",488
+Jharkhand,Wilt Disease,"Chili, Eggplant",395
+Jharkhand,Black Rot,"Cabbage, Cauliflower",217
+Jharkhand,Brown Spot,Rice,72
+Jharkhand,Yellow Mosaic Virus,"Legumes, Soybean",131
+Jharkhand,Downy Spot,"Spinach, Lettuce",162
+Jharkhand,Red Rot,Sugarcane,296
+Jharkhand,Smut,"Sorghum, Millets",312
+Jharkhand,Black Sigatoka,Bananas,183
+Jharkhand,Fungal Leaf Spot,"Peanuts, Sesame",496
+Jharkhand,Mosaic Disease,"Okra, Pumpkin",125
+Jharkhand,Blast Disease,"Millets, Maize",218
+Jharkhand,Cercospora Leaf Spot,"Beetroot, Carrot",99
+Jharkhand,Angular Leaf Spot,"Cucumber, Pumpkin",376
+Assam,Leaf Rust,"Wheat, Barley",221
+Assam,Powdery Mildew,"Grapes, Cucumbers",400
+Assam,Blight,"Potatoes, Tomatoes",330
+Assam,Bacterial Wilt,"Tomatoes, Peppers",407
+Assam,Fusarium Wilt,Bananas,394
+Assam,Downy Mildew,"Grapes, Cucumbers",63
+Assam,Root Rot,"Soybean, Peanuts",336
+Assam,White Mold,"Sunflower, Soybean",57
+Assam,Stem Rust,Wheat,181
+Assam,Rice Blast,Rice,173
+Assam,Citrus Canker,"Oranges, Lemons",239
+Assam,Cotton Bollworm,Cotton,139
+Assam,Late Blight,"Potatoes, Tomatoes",428
+Assam,Rust,Coffee,119
+Assam,Tobacco Mosaic Virus,Tobacco,146
+Assam,Anthracnose,"Mango, Papaya",55
+Assam,Wilt Disease,"Chili, Eggplant",91
+Assam,Black Rot,"Cabbage, Cauliflower",213
+Assam,Brown Spot,Rice,185
+Assam,Yellow Mosaic Virus,"Legumes, Soybean",349
+Assam,Downy Spot,"Spinach, Lettuce",275
+Assam,Red Rot,Sugarcane,250
+Assam,Smut,"Sorghum, Millets",197
+Assam,Black Sigatoka,Bananas,121
+Assam,Fungal Leaf Spot,"Peanuts, Sesame",195
+Assam,Mosaic Disease,"Okra, Pumpkin",76
+Assam,Blast Disease,"Millets, Maize",127
+Assam,Cercospora Leaf Spot,"Beetroot, Carrot",409
+Assam,Angular Leaf Spot,"Cucumber, Pumpkin",361
+Goa,Leaf Rust,"Wheat, Barley",202
+Goa,Powdery Mildew,"Grapes, Cucumbers",210
+Goa,Blight,"Potatoes, Tomatoes",174
+Goa,Bacterial Wilt,"Tomatoes, Peppers",224
+Goa,Fusarium Wilt,Bananas,423
+Goa,Downy Mildew,"Grapes, Cucumbers",382
+Goa,Root Rot,"Soybean, Peanuts",199
+Goa,White Mold,"Sunflower, Soybean",440
+Goa,Stem Rust,Wheat,359
+Goa,Rice Blast,Rice,131
+Goa,Citrus Canker,"Oranges, Lemons",432
+Goa,Cotton Bollworm,Cotton,62
+Goa,Late Blight,"Potatoes, Tomatoes",240
+Goa,Rust,Coffee,408
+Goa,Tobacco Mosaic Virus,Tobacco,214
+Goa,Anthracnose,"Mango, Papaya",272
+Goa,Wilt Disease,"Chili, Eggplant",151
+Goa,Black Rot,"Cabbage, Cauliflower",263
+Goa,Brown Spot,Rice,291
+Goa,Yellow Mosaic Virus,"Legumes, Soybean",350
+Goa,Downy Spot,"Spinach, Lettuce",396
+Goa,Red Rot,Sugarcane,92
+Goa,Smut,"Sorghum, Millets",198
+Goa,Black Sigatoka,Bananas,353
+Goa,Fungal Leaf Spot,"Peanuts, Sesame",387
+Goa,Mosaic Disease,"Okra, Pumpkin",260
+Goa,Blast Disease,"Millets, Maize",133
+Goa,Cercospora Leaf Spot,"Beetroot, Carrot",67
+Goa,Angular Leaf Spot,"Cucumber, Pumpkin",54
+Uttarakhand,Leaf Rust,"Wheat, Barley",205
+Uttarakhand,Powdery Mildew,"Grapes, Cucumbers",155
+Uttarakhand,Blight,"Potatoes, Tomatoes",256
+Uttarakhand,Bacterial Wilt,"Tomatoes, Peppers",305
+Uttarakhand,Fusarium Wilt,Bananas,286
+Uttarakhand,Downy Mildew,"Grapes, Cucumbers",463
+Uttarakhand,Root Rot,"Soybean, Peanuts",151
+Uttarakhand,White Mold,"Sunflower, Soybean",66
+Uttarakhand,Stem Rust,Wheat,154
+Uttarakhand,Rice Blast,Rice,245
+Uttarakhand,Citrus Canker,"Oranges, Lemons",75
+Uttarakhand,Cotton Bollworm,Cotton,119
+Uttarakhand,Late Blight,"Potatoes, Tomatoes",332
+Uttarakhand,Rust,Coffee,96
+Uttarakhand,Tobacco Mosaic Virus,Tobacco,448
+Uttarakhand,Anthracnose,"Mango, Papaya",343
+Uttarakhand,Wilt Disease,"Chili, Eggplant",108
+Uttarakhand,Black Rot,"Cabbage, Cauliflower",169
+Uttarakhand,Brown Spot,Rice,82
+Uttarakhand,Yellow Mosaic Virus,"Legumes, Soybean",79
+Uttarakhand,Downy Spot,"Spinach, Lettuce",259
+Uttarakhand,Red Rot,Sugarcane,333
+Uttarakhand,Smut,"Sorghum, Millets",410
+Uttarakhand,Black Sigatoka,Bananas,197
+Uttarakhand,Fungal Leaf Spot,"Peanuts, Sesame",188
+Uttarakhand,Mosaic Disease,"Okra, Pumpkin",98
+Uttarakhand,Blast Disease,"Millets, Maize",272
+Uttarakhand,Cercospora Leaf Spot,"Beetroot, Carrot",337
+Uttarakhand,Angular Leaf Spot,"Cucumber, Pumpkin",339
+Manipur,Leaf Rust,"Wheat, Barley",95
+Manipur,Powdery Mildew,"Grapes, Cucumbers",77
+Manipur,Blight,"Potatoes, Tomatoes",454
+Manipur,Bacterial Wilt,"Tomatoes, Peppers",192
+Manipur,Fusarium Wilt,Bananas,241
+Manipur,Downy Mildew,"Grapes, Cucumbers",118
+Manipur,Root Rot,"Soybean, Peanuts",327
+Manipur,White Mold,"Sunflower, Soybean",327
+Manipur,Stem Rust,Wheat,408
+Manipur,Rice Blast,Rice,384
+Manipur,Citrus Canker,"Oranges, Lemons",116
+Manipur,Cotton Bollworm,Cotton,278
+Manipur,Late Blight,"Potatoes, Tomatoes",432
+Manipur,Rust,Coffee,186
+Manipur,Tobacco Mosaic Virus,Tobacco,209
+Manipur,Anthracnose,"Mango, Papaya",413
+Manipur,Wilt Disease,"Chili, Eggplant",157
+Manipur,Black Rot,"Cabbage, Cauliflower",145
+Manipur,Brown Spot,Rice,266
+Manipur,Yellow Mosaic Virus,"Legumes, Soybean",199
+Manipur,Downy Spot,"Spinach, Lettuce",286
+Manipur,Red Rot,Sugarcane,176
+Manipur,Smut,"Sorghum, Millets",337
+Manipur,Black Sigatoka,Bananas,462
+Manipur,Fungal Leaf Spot,"Peanuts, Sesame",431
+Manipur,Mosaic Disease,"Okra, Pumpkin",383
+Manipur,Blast Disease,"Millets, Maize",367
+Manipur,Cercospora Leaf Spot,"Beetroot, Carrot",419
+Manipur,Angular Leaf Spot,"Cucumber, Pumpkin",190
+Meghalaya,Leaf Rust,"Wheat, Barley",218
+Meghalaya,Powdery Mildew,"Grapes, Cucumbers",182
+Meghalaya,Blight,"Potatoes, Tomatoes",278
+Meghalaya,Bacterial Wilt,"Tomatoes, Peppers",412
+Meghalaya,Fusarium Wilt,Bananas,235
+Meghalaya,Downy Mildew,"Grapes, Cucumbers",125
+Meghalaya,Root Rot,"Soybean, Peanuts",64
+Meghalaya,White Mold,"Sunflower, Soybean",111
+Meghalaya,Stem Rust,Wheat,478
+Meghalaya,Rice Blast,Rice,335
+Meghalaya,Citrus Canker,"Oranges, Lemons",296
+Meghalaya,Cotton Bollworm,Cotton,162
+Meghalaya,Late Blight,"Potatoes, Tomatoes",165
+Meghalaya,Rust,Coffee,228
+Meghalaya,Tobacco Mosaic Virus,Tobacco,183
+Meghalaya,Anthracnose,"Mango, Papaya",352
+Meghalaya,Wilt Disease,"Chili, Eggplant",93
+Meghalaya,Black Rot,"Cabbage, Cauliflower",54
+Meghalaya,Brown Spot,Rice,147
+Meghalaya,Yellow Mosaic Virus,"Legumes, Soybean",178
+Meghalaya,Downy Spot,"Spinach, Lettuce",353
+Meghalaya,Red Rot,Sugarcane,293
+Meghalaya,Smut,"Sorghum, Millets",226
+Meghalaya,Black Sigatoka,Bananas,306
+Meghalaya,Fungal Leaf Spot,"Peanuts, Sesame",278
+Meghalaya,Mosaic Disease,"Okra, Pumpkin",145
+Meghalaya,Blast Disease,"Millets, Maize",347
+Meghalaya,Cercospora Leaf Spot,"Beetroot, Carrot",149
+Meghalaya,Angular Leaf Spot,"Cucumber, Pumpkin",102
+Tripura,Leaf Rust,"Wheat, Barley",237
+Tripura,Powdery Mildew,"Grapes, Cucumbers",268
+Tripura,Blight,"Potatoes, Tomatoes",188
+Tripura,Bacterial Wilt,"Tomatoes, Peppers",296
+Tripura,Fusarium Wilt,Bananas,390
+Tripura,Downy Mildew,"Grapes, Cucumbers",112
+Tripura,Root Rot,"Soybean, Peanuts",462
+Tripura,White Mold,"Sunflower, Soybean",204
+Tripura,Stem Rust,Wheat,312
+Tripura,Rice Blast,Rice,212
+Tripura,Citrus Canker,"Oranges, Lemons",380
+Tripura,Cotton Bollworm,Cotton,471
+Tripura,Late Blight,"Potatoes, Tomatoes",356
+Tripura,Rust,Coffee,251
+Tripura,Tobacco Mosaic Virus,Tobacco,240
+Tripura,Anthracnose,"Mango, Papaya",251
+Tripura,Wilt Disease,"Chili, Eggplant",497
+Tripura,Black Rot,"Cabbage, Cauliflower",369
+Tripura,Brown Spot,Rice,282
+Tripura,Yellow Mosaic Virus,"Legumes, Soybean",328
+Tripura,Downy Spot,"Spinach, Lettuce",359
+Tripura,Red Rot,Sugarcane,123
+Tripura,Smut,"Sorghum, Millets",280
+Tripura,Black Sigatoka,Bananas,485
+Tripura,Fungal Leaf Spot,"Peanuts, Sesame",319
+Tripura,Mosaic Disease,"Okra, Pumpkin",393
+Tripura,Blast Disease,"Millets, Maize",423
+Tripura,Cercospora Leaf Spot,"Beetroot, Carrot",208
+Tripura,Angular Leaf Spot,"Cucumber, Pumpkin",205
+Mizoram,Leaf Rust,"Wheat, Barley",91
+Mizoram,Powdery Mildew,"Grapes, Cucumbers",221
+Mizoram,Blight,"Potatoes, Tomatoes",381
+Mizoram,Bacterial Wilt,"Tomatoes, Peppers",287
+Mizoram,Fusarium Wilt,Bananas,172
+Mizoram,Downy Mildew,"Grapes, Cucumbers",338
+Mizoram,Root Rot,"Soybean, Peanuts",436
+Mizoram,White Mold,"Sunflower, Soybean",309
+Mizoram,Stem Rust,Wheat,410
+Mizoram,Rice Blast,Rice,381
+Mizoram,Citrus Canker,"Oranges, Lemons",215
+Mizoram,Cotton Bollworm,Cotton,239
+Mizoram,Late Blight,"Potatoes, Tomatoes",259
+Mizoram,Rust,Coffee,69
+Mizoram,Tobacco Mosaic Virus,Tobacco,466
+Mizoram,Anthracnose,"Mango, Papaya",494
+Mizoram,Wilt Disease,"Chili, Eggplant",216
+Mizoram,Black Rot,"Cabbage, Cauliflower",137
+Mizoram,Brown Spot,Rice,248
+Mizoram,Yellow Mosaic Virus,"Legumes, Soybean",62
+Mizoram,Downy Spot,"Spinach, Lettuce",325
+Mizoram,Red Rot,Sugarcane,398
+Mizoram,Smut,"Sorghum, Millets",387
+Mizoram,Black Sigatoka,Bananas,390
+Mizoram,Fungal Leaf Spot,"Peanuts, Sesame",384
+Mizoram,Mosaic Disease,"Okra, Pumpkin",221
+Mizoram,Blast Disease,"Millets, Maize",133
+Mizoram,Cercospora Leaf Spot,"Beetroot, Carrot",296
+Mizoram,Angular Leaf Spot,"Cucumber, Pumpkin",285
+Sikkim,Leaf Rust,"Wheat, Barley",395
+Sikkim,Powdery Mildew,"Grapes, Cucumbers",136
+Sikkim,Blight,"Potatoes, Tomatoes",93
+Sikkim,Bacterial Wilt,"Tomatoes, Peppers",294
+Sikkim,Fusarium Wilt,Bananas,314
+Sikkim,Downy Mildew,"Grapes, Cucumbers",329
+Sikkim,Root Rot,"Soybean, Peanuts",216
+Sikkim,White Mold,"Sunflower, Soybean",94
+Sikkim,Stem Rust,Wheat,56
+Sikkim,Rice Blast,Rice,116
+Sikkim,Citrus Canker,"Oranges, Lemons",271
+Sikkim,Cotton Bollworm,Cotton,227
+Sikkim,Late Blight,"Potatoes, Tomatoes",53
+Sikkim,Rust,Coffee,221
+Sikkim,Tobacco Mosaic Virus,Tobacco,344
+Sikkim,Anthracnose,"Mango, Papaya",196
+Sikkim,Wilt Disease,"Chili, Eggplant",308
+Sikkim,Black Rot,"Cabbage, Cauliflower",84
+Sikkim,Brown Spot,Rice,262
+Sikkim,Yellow Mosaic Virus,"Legumes, Soybean",156
+Sikkim,Downy Spot,"Spinach, Lettuce",399
+Sikkim,Red Rot,Sugarcane,308
+Sikkim,Smut,"Sorghum, Millets",255
+Sikkim,Black Sigatoka,Bananas,304
+Sikkim,Fungal Leaf Spot,"Peanuts, Sesame",169
+Sikkim,Mosaic Disease,"Okra, Pumpkin",488
+Sikkim,Blast Disease,"Millets, Maize",466
+Sikkim,Cercospora Leaf Spot,"Beetroot, Carrot",395
+Sikkim,Angular Leaf Spot,"Cucumber, Pumpkin",277
+Arunachal Pradesh,Leaf Rust,"Wheat, Barley",328
+Arunachal Pradesh,Powdery Mildew,"Grapes, Cucumbers",243
+Arunachal Pradesh,Blight,"Potatoes, Tomatoes",122
+Arunachal Pradesh,Bacterial Wilt,"Tomatoes, Peppers",325
+Arunachal Pradesh,Fusarium Wilt,Bananas,481
+Arunachal Pradesh,Downy Mildew,"Grapes, Cucumbers",144
+Arunachal Pradesh,Root Rot,"Soybean, Peanuts",288
+Arunachal Pradesh,White Mold,"Sunflower, Soybean",246
+Arunachal Pradesh,Stem Rust,Wheat,105
+Arunachal Pradesh,Rice Blast,Rice,406
+Arunachal Pradesh,Citrus Canker,"Oranges, Lemons",348
+Arunachal Pradesh,Cotton Bollworm,Cotton,366
+Arunachal Pradesh,Late Blight,"Potatoes, Tomatoes",227
+Arunachal Pradesh,Rust,Coffee,393
+Arunachal Pradesh,Tobacco Mosaic Virus,Tobacco,382
+Arunachal Pradesh,Anthracnose,"Mango, Papaya",358
+Arunachal Pradesh,Wilt Disease,"Chili, Eggplant",412
+Arunachal Pradesh,Black Rot,"Cabbage, Cauliflower",304
+Arunachal Pradesh,Brown Spot,Rice,278
+Arunachal Pradesh,Yellow Mosaic Virus,"Legumes, Soybean",474
+Arunachal Pradesh,Downy Spot,"Spinach, Lettuce",395
+Arunachal Pradesh,Red Rot,Sugarcane,399
+Arunachal Pradesh,Smut,"Sorghum, Millets",243
+Arunachal Pradesh,Black Sigatoka,Bananas,247
+Arunachal Pradesh,Fungal Leaf Spot,"Peanuts, Sesame",103
+Arunachal Pradesh,Mosaic Disease,"Okra, Pumpkin",106
+Arunachal Pradesh,Blast Disease,"Millets, Maize",77
+Arunachal Pradesh,Cercospora Leaf Spot,"Beetroot, Carrot",482
+Arunachal Pradesh,Angular Leaf Spot,"Cucumber, Pumpkin",242
+Nagaland,Leaf Rust,"Wheat, Barley",321
+Nagaland,Powdery Mildew,"Grapes, Cucumbers",339
+Nagaland,Blight,"Potatoes, Tomatoes",396
+Nagaland,Bacterial Wilt,"Tomatoes, Peppers",149
+Nagaland,Fusarium Wilt,Bananas,426
+Nagaland,Downy Mildew,"Grapes, Cucumbers",419
+Nagaland,Root Rot,"Soybean, Peanuts",342
+Nagaland,White Mold,"Sunflower, Soybean",227
+Nagaland,Stem Rust,Wheat,435
+Nagaland,Rice Blast,Rice,126
+Nagaland,Citrus Canker,"Oranges, Lemons",95
+Nagaland,Cotton Bollworm,Cotton,210
+Nagaland,Late Blight,"Potatoes, Tomatoes",128
+Nagaland,Rust,Coffee,199
+Nagaland,Tobacco Mosaic Virus,Tobacco,463
+Nagaland,Anthracnose,"Mango, Papaya",164
+Nagaland,Wilt Disease,"Chili, Eggplant",90
+Nagaland,Black Rot,"Cabbage, Cauliflower",207
+Nagaland,Brown Spot,Rice,219
+Nagaland,Yellow Mosaic Virus,"Legumes, Soybean",347
+Nagaland,Downy Spot,"Spinach, Lettuce",54
+Nagaland,Red Rot,Sugarcane,73
+Nagaland,Smut,"Sorghum, Millets",467
+Nagaland,Black Sigatoka,Bananas,220
+Nagaland,Fungal Leaf Spot,"Peanuts, Sesame",288
+Nagaland,Mosaic Disease,"Okra, Pumpkin",370
+Nagaland,Blast Disease,"Millets, Maize",138
+Nagaland,Cercospora Leaf Spot,"Beetroot, Carrot",445
+Nagaland,Angular Leaf Spot,"Cucumber, Pumpkin",208
